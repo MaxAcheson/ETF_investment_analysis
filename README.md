@@ -38,7 +38,7 @@ Next, confirm that the packages are installed by using the following code lines:
 
 In order to view the project, navigate to the `san_francisco_housing.ipynb` notebook in the repository directory. If you cannot find the file, simply click [here](https://github.com/MaxAcheson/Module_7_Challenge/blob/main/Starter_Code/etf_analyzer.ipynb) instead. If you would like to interact with the live version of the analysis, you may navigate to your cloned version of the repository in your terminal and run `jupyter lab`.
 
-Since the analysis figures do not render live on GitHub, the figures from the analysis have been provided below, along with their corresponding notebook cell.
+Since the analysis figures do not render live on GitHub, the figures from voila have been provided below, along with their corresponding notebook cell.
 
 [Cell 07 Out]:
 ![Paypal Daily Returns](https://github.com/MaxAcheson/Module_7_Challenge/blob/main/Images/First%20Figure%20Paypal%20Daily%20Returns.png)
